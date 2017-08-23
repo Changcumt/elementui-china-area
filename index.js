@@ -1,2 +1,2 @@
-var data = require('./data')
+var data = require('./element-data')
 module.exports = data;
