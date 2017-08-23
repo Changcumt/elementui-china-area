@@ -1,25 +1,25 @@
 {
-  "name": "elementui-china-area",
-  "version": "1.0.0",
-  "description": "a plugin for china-area select about elementUI",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Changcumt/elementui-china-area.git"
-  },
-  "keywords": [
-    "elemnt",
-    "elementui",
-    "china",
-    "province"
-  ],
-  "author": "kylin",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Changcumt/elementui-china-area/issues"
-  },
-  "homepage": "https://github.com/Changcumt/elementui-china-area#readme"
+    "name": "elementui-china-area",
+    "version": "1.0.1",
+    "description": "a plugin for china-area select about elementUI",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Changcumt/elementui-china-area.git"
+    },
+    "keywords": [
+        "elemnt",
+        "elementui",
+        "china",
+        "province"
+    ],
+    "author": "kylin",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Changcumt/elementui-china-area/issues"
+    },
+    "homepage": "https://github.com/Changcumt/elementui-china-area#readme"
 }
